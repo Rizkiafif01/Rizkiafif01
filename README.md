@@ -1,6 +1,4 @@
-## Holla Diablos 👋
-
-<h1 align="center">Holla Diablos Rizki</h1>
+<h1 align="center">Holla Diablos </h1>
 - 💬 Jangan Tanya Saya **kotlin**
 
 - 📫 Kontak **rizkiafif00@gmail.com**
